@@ -1,3 +1,9 @@
+## News API Interface
+
+basic react app to source news from News Api using Fetch and Axios with minimal error handling
+
+From Lynda.com React: Working with API's
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
